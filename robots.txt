@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sv-detailing.ru/sitemap.xml
